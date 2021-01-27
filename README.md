@@ -1,1 +1,2 @@
 # CandyRushGame
+This project is created on Candy Rush Game in java using Netbeans. When the game gets started ,you have to move the bowl and collect the candies falling in it. The score will be calculated as per the number of candies you collect in the bowl. In the left side corner ,there will be five hearts given. If you lost 5 candies, those hearts will get reduced and final score will be displayed.
